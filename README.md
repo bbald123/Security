@@ -1,2 +1,2 @@
 # Security
-A collection of security hint, tricks, and cookbooks.
+A collection of security hints, tricks, and cookbooks.
